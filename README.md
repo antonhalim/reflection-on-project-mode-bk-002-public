@@ -6,9 +6,9 @@ resources: 7
 
 # Refections on Project Mode 1
 
-[goat looking in a mirror](https://s3-us-west-2.amazonaws.com/web-dev-readme-photos/cultural-curriculum/goat.gif)
-
 ## Overview
+
+![goat looking in a mirror](https://s3-us-west-2.amazonaws.com/web-dev-readme-photos/cultural-curriculum/goat.gif)
 
 This lab is divided into two parts:
 
