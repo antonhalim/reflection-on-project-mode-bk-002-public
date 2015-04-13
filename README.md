@@ -6,7 +6,7 @@ resources: 7
 
 # Refections on Project Mode 1
 
-![goat looking in a mirror](http://media3.giphy.com/media/pBj39cHnzprlS/200.gif)
+[goat looking in a mirror](https://s3-us-west-2.amazonaws.com/web-dev-readme-photos/cultural-curriculum/goat.gif)
 
 ## Overview
 
