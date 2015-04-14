@@ -60,15 +60,15 @@ end
 
 describe "Things That Went Poorly" do
   let(:file) { File.read("lib/05_things_that_went_poorly.md") }
-  xit "has content" do
+  it "has content" do
     expect(file.length).to be > 0
   end
-  xit "contains the numbers 1 through 3" do
+  it "contains the numbers 1 through 3" do
     (1..3).each do |num|
       expect(file).to include("#{num}. ")
     end
   end
-  xit "is at least 125 characters in length" do
+  it "is at least 125 characters in length" do
     expect(file.length).to be >= 125
   end
 end
